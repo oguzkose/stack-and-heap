@@ -1,0 +1,16 @@
+C:\Users\oguz_\source\repos\stack-and-heap\bin\Debug\net5.0\stack-and-heap.exe
+C:\Users\oguz_\source\repos\stack-and-heap\bin\Debug\net5.0\stack-and-heap.deps.json
+C:\Users\oguz_\source\repos\stack-and-heap\bin\Debug\net5.0\stack-and-heap.runtimeconfig.json
+C:\Users\oguz_\source\repos\stack-and-heap\bin\Debug\net5.0\stack-and-heap.runtimeconfig.dev.json
+C:\Users\oguz_\source\repos\stack-and-heap\bin\Debug\net5.0\stack-and-heap.dll
+C:\Users\oguz_\source\repos\stack-and-heap\bin\Debug\net5.0\ref\stack-and-heap.dll
+C:\Users\oguz_\source\repos\stack-and-heap\bin\Debug\net5.0\stack-and-heap.pdb
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.csproj.AssemblyReference.cache
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.AssemblyInfoInputs.cache
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.AssemblyInfo.cs
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.csproj.CoreCompileInputs.cache
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.dll
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\ref\stack-and-heap.dll
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.pdb
+C:\Users\oguz_\source\repos\stack-and-heap\obj\Debug\net5.0\stack-and-heap.genruntimeconfig.cache
