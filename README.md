@@ -1,4 +1,5 @@
 # RAM'in Çalışma prensibi
+![alt text](https://github.com/oguzkose/stack-and-heap/blob/main/stack-heap.jpg)
 ## Stack 
 - RAM'in Stack bölümü değer tipli verileri tutar. Bunlar "int", "long", "float", "double", "decimal", "char", "bool", "byte", "short", "struct", "enum" gibi değişken tipleridir. Buna ek olarak Heap bölümünde tutulan verilerin referans adreslerini barındırır.
 ```csharp
